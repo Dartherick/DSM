@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-12T17:36:24.515Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="t40uAC_8ol98LvqKy5bK" version="15.1.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-09-12T18:26:26.757Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="KQTvysclBGD_8N6X1Spv" version="15.1.4" type="github" pages="2">
   <diagram id="RvWICdDQwOju8bCWMGmB" name="Examen">
-    <mxGraphModel dx="-5064" dy="1708" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-3328" dy="2616" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="rQtTmtvYrxI-fKIO3Bun-0" />
         <mxCell id="rQtTmtvYrxI-fKIO3Bun-1" parent="rQtTmtvYrxI-fKIO3Bun-0" />
@@ -2223,7 +2223,7 @@
           <mxGeometry x="408.25" y="-158" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v5eGutgX8etY0REWhL9L-164" value="Sistema de energia" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;strokeWidth=3;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1459" y="-171" width="269" height="60" as="geometry" />
+          <mxGeometry x="1467" y="-258" width="269" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v5eGutgX8etY0REWhL9L-173" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" parent="1" source="v5eGutgX8etY0REWhL9L-166" target="v5eGutgX8etY0REWhL9L-167" edge="1">
           <mxGeometry relative="1" as="geometry" />
