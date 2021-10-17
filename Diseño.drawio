@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-17T01:23:33.759Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="TyNK_O5Lif8wRGic2vqf" version="15.5.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-17T01:28:11.262Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="nxyZ6t2FMJbvF_GMoX0m" version="15.5.4" type="github" pages="3">
   <diagram id="0cCymv_eFSbqMlrv2P3G" name="Esquema de producto">
     <mxGraphModel dx="6614" dy="3027" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -5702,6 +5702,14 @@
       <root>
         <mxCell id="u3m8OHi7mAYgLWEsVLAU-0" />
         <mxCell id="u3m8OHi7mAYgLWEsVLAU-1" parent="u3m8OHi7mAYgLWEsVLAU-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="jqTqFbydZOTkmEdzokBZ" name="Flujo de proceso">
+    <mxGraphModel dx="868" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="_L5VKUi7owUdNwf-Yq2Y-0" />
+        <mxCell id="_L5VKUi7owUdNwf-Yq2Y-1" parent="_L5VKUi7owUdNwf-Yq2Y-0" />
       </root>
     </mxGraphModel>
   </diagram>
