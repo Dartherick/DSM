@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-17T02:00:57.255Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="WVkEuRTUwESgPcFlGVW2" version="15.5.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-10-17T02:02:02.349Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="-rmohKQQNj51KkiqmzN4" version="15.5.4" type="github" pages="3">
   <diagram id="0cCymv_eFSbqMlrv2P3G" name="Esquema de producto">
     <mxGraphModel dx="6614" dy="3027" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -5698,7 +5698,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="E8A6YasDpyY4jCSgoTIH" name="Análisis de Interacciones">
-    <mxGraphModel dx="1268" dy="454" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1480" dy="454" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="u3m8OHi7mAYgLWEsVLAU-0" />
         <mxCell id="u3m8OHi7mAYgLWEsVLAU-1" parent="u3m8OHi7mAYgLWEsVLAU-0" />
@@ -5769,91 +5769,91 @@
           <mxGeometry x="117" y="390" width="113" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gyqTQnIYREb1J63Ug_oR-20" value="Recibir energia" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="u3m8OHi7mAYgLWEsVLAU-1">
-          <mxGeometry x="414" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="345" y="48" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gyqTQnIYREb1J63Ug_oR-21" value="Modular energia" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="u3m8OHi7mAYgLWEsVLAU-1">
-          <mxGeometry x="412" y="396" width="120" height="60" as="geometry" />
+          <mxGeometry x="343" y="134" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gyqTQnIYREb1J63Ug_oR-22" value="Almacenar energia" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="u3m8OHi7mAYgLWEsVLAU-1">
-          <mxGeometry x="417" y="477" width="120" height="60" as="geometry" />
+          <mxGeometry x="348" y="215" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gyqTQnIYREb1J63Ug_oR-23" value="Distribuir energia" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="u3m8OHi7mAYgLWEsVLAU-1">
-          <mxGeometry x="420" y="558" width="120" height="60" as="geometry" />
+          <mxGeometry x="351" y="296" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gyqTQnIYREb1J63Ug_oR-24" value="Proteccion electrica" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="u3m8OHi7mAYgLWEsVLAU-1">
-          <mxGeometry x="417" y="643" width="120" height="60" as="geometry" />
+          <mxGeometry x="348" y="381" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gyqTQnIYREb1J63Ug_oR-25" value="Disipar vibraciones" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="u3m8OHi7mAYgLWEsVLAU-1">
-          <mxGeometry x="594" y="307" width="120" height="60" as="geometry" />
+          <mxGeometry x="525" y="45" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gyqTQnIYREb1J63Ug_oR-26" value="Disipar calor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="u3m8OHi7mAYgLWEsVLAU-1">
-          <mxGeometry x="602" y="396" width="120" height="60" as="geometry" />
+          <mxGeometry x="533" y="134" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gyqTQnIYREb1J63Ug_oR-27" value="Disipar sonido" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="u3m8OHi7mAYgLWEsVLAU-1">
-          <mxGeometry x="602" y="485" width="120" height="60" as="geometry" />
+          <mxGeometry x="533" y="223" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gyqTQnIYREb1J63Ug_oR-28" value="Eliminar malezas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="u3m8OHi7mAYgLWEsVLAU-1">
-          <mxGeometry x="602" y="574" width="120" height="60" as="geometry" />
+          <mxGeometry x="533" y="312" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gyqTQnIYREb1J63Ug_oR-29" value="Accionar mecanismos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="u3m8OHi7mAYgLWEsVLAU-1">
-          <mxGeometry x="600" y="658" width="120" height="60" as="geometry" />
+          <mxGeometry x="531" y="396" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gyqTQnIYREb1J63Ug_oR-30" value="Accionar movimiento" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="u3m8OHi7mAYgLWEsVLAU-1">
-          <mxGeometry x="754" y="307" width="120" height="60" as="geometry" />
+          <mxGeometry x="685" y="45" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gyqTQnIYREb1J63Ug_oR-31" value="Transmision de mecanismos" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="u3m8OHi7mAYgLWEsVLAU-1">
-          <mxGeometry x="762" y="396" width="120" height="60" as="geometry" />
+          <mxGeometry x="693" y="134" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gyqTQnIYREb1J63Ug_oR-33" value="Transmision de movimiento" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="u3m8OHi7mAYgLWEsVLAU-1">
-          <mxGeometry x="762" y="485" width="120" height="60" as="geometry" />
+          <mxGeometry x="693" y="223" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gyqTQnIYREb1J63Ug_oR-34" value="Metodo de movimiento" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="u3m8OHi7mAYgLWEsVLAU-1">
-          <mxGeometry x="759" y="574" width="120" height="60" as="geometry" />
+          <mxGeometry x="690" y="312" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gyqTQnIYREb1J63Ug_oR-35" value="Alarmas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="u3m8OHi7mAYgLWEsVLAU-1">
-          <mxGeometry x="759" y="663" width="120" height="60" as="geometry" />
+          <mxGeometry x="690" y="401" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gyqTQnIYREb1J63Ug_oR-36" value="Identificar malezas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="u3m8OHi7mAYgLWEsVLAU-1">
-          <mxGeometry x="929" y="307" width="120" height="60" as="geometry" />
+          <mxGeometry x="860" y="45" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gyqTQnIYREb1J63Ug_oR-37" value="Introducir parametros" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="u3m8OHi7mAYgLWEsVLAU-1">
-          <mxGeometry x="935" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="866" y="128" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gyqTQnIYREb1J63Ug_oR-38" value="Recibir y transmitir señales" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="u3m8OHi7mAYgLWEsVLAU-1">
-          <mxGeometry x="935" y="482" width="120" height="60" as="geometry" />
+          <mxGeometry x="866" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gyqTQnIYREb1J63Ug_oR-39" value="Procesar señales" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="u3m8OHi7mAYgLWEsVLAU-1">
-          <mxGeometry x="940" y="574" width="120" height="60" as="geometry" />
+          <mxGeometry x="871" y="312" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gyqTQnIYREb1J63Ug_oR-40" value="Distribuir señales" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="u3m8OHi7mAYgLWEsVLAU-1">
-          <mxGeometry x="943" y="666" width="120" height="60" as="geometry" />
+          <mxGeometry x="874" y="404" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gyqTQnIYREb1J63Ug_oR-41" value="Identificar malezas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="u3m8OHi7mAYgLWEsVLAU-1">
-          <mxGeometry x="1111" y="304" width="120" height="60" as="geometry" />
+          <mxGeometry x="1042" y="42" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gyqTQnIYREb1J63Ug_oR-42" value="Indicadores" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="u3m8OHi7mAYgLWEsVLAU-1">
-          <mxGeometry x="1111" y="304" width="120" height="60" as="geometry" />
+          <mxGeometry x="1042" y="42" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gyqTQnIYREb1J63Ug_oR-43" value="Interrupciones" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="u3m8OHi7mAYgLWEsVLAU-1">
-          <mxGeometry x="1118" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="1049" y="128" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gyqTQnIYREb1J63Ug_oR-44" value="Detectar ubicacion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="u3m8OHi7mAYgLWEsVLAU-1">
-          <mxGeometry x="1116" y="479" width="120" height="60" as="geometry" />
+          <mxGeometry x="1047" y="217" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gyqTQnIYREb1J63Ug_oR-45" value="Detectar inclinacion" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="u3m8OHi7mAYgLWEsVLAU-1">
-          <mxGeometry x="1111" y="568" width="120" height="60" as="geometry" />
+          <mxGeometry x="1042" y="306" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gyqTQnIYREb1J63Ug_oR-46" value="Detectar entorno" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="u3m8OHi7mAYgLWEsVLAU-1">
-          <mxGeometry x="1121" y="666" width="120" height="60" as="geometry" />
+          <mxGeometry x="1052" y="404" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gyqTQnIYREb1J63Ug_oR-47" value="HMI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="u3m8OHi7mAYgLWEsVLAU-1">
-          <mxGeometry x="1274" y="302" width="120" height="60" as="geometry" />
+          <mxGeometry x="1205" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gyqTQnIYREb1J63Ug_oR-48" value="Chasis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="u3m8OHi7mAYgLWEsVLAU-1">
-          <mxGeometry x="1274" y="394" width="120" height="60" as="geometry" />
+          <mxGeometry x="1205" y="132" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gyqTQnIYREb1J63Ug_oR-49" value="Housing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="u3m8OHi7mAYgLWEsVLAU-1">
-          <mxGeometry x="1276" y="479" width="120" height="60" as="geometry" />
+          <mxGeometry x="1207" y="217" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
