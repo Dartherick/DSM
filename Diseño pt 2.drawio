@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-20T16:08:20.203Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="WpD1_oShsFH-C6iCCg-l" version="15.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-20T16:09:01.719Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="YOpFHdB8zIOcWpA4kPi-" version="15.5.6" type="github">
   <diagram id="HloR8D8-FnarYfhAqfTk" name="WBS">
     <mxGraphModel dx="5676" dy="1958" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -265,10 +265,10 @@
         <mxCell id="hKFb7bivR6nwUs9oMAIg-49" value="&lt;u style=&quot;font-size: 15px;&quot;&gt;7. Distribucion&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;movable=0;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="hKFb7bivR6nwUs9oMAIg-1" vertex="1">
           <mxGeometry x="1020" y="-449" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hKFb7bivR6nwUs9oMAIg-81" value="7.1 Empaque del producto" style="rounded=1;whiteSpace=wrap;html=1;movable=0;fontSize=13;fillColor=#fff2cc;strokeColor=#d6b656;" parent="hKFb7bivR6nwUs9oMAIg-1" vertex="1">
+        <mxCell id="hKFb7bivR6nwUs9oMAIg-81" value="7.1 Empaque del producto" style="rounded=1;whiteSpace=wrap;html=1;movable=0;fontSize=13;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="hKFb7bivR6nwUs9oMAIg-1" vertex="1">
           <mxGeometry x="1108" y="-360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hKFb7bivR6nwUs9oMAIg-82" value="7.2 Distribucion" style="rounded=1;whiteSpace=wrap;html=1;movable=0;fontSize=13;fillColor=#fff2cc;strokeColor=#d6b656;" parent="hKFb7bivR6nwUs9oMAIg-1" vertex="1">
+        <mxCell id="hKFb7bivR6nwUs9oMAIg-82" value="7.2 Distribucion" style="rounded=1;whiteSpace=wrap;html=1;movable=0;fontSize=13;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="hKFb7bivR6nwUs9oMAIg-1" vertex="1">
           <mxGeometry x="1108" y="-270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cXa9iwHkYyDvZGANJJYn-0" value="1.4 Revision del diseño CAD por el equipo de ingenieria.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;movable=0;fontSize=13;fillColor=#F8CECC;strokeColor=#b85450;" vertex="1" parent="hKFb7bivR6nwUs9oMAIg-1">
