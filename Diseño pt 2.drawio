@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-20T15:11:40.536Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="ZNCi9MnTFwXnHHYQBSYe" version="15.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-20T15:34:48.166Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="iaQ12324ptEVS5S36a_N" version="15.5.6" type="github">
   <diagram id="HloR8D8-FnarYfhAqfTk" name="WBS">
-    <mxGraphModel dx="5330" dy="1668" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5273" dy="1734" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="hKFb7bivR6nwUs9oMAIg-0" />
         <mxCell id="hKFb7bivR6nwUs9oMAIg-1" parent="hKFb7bivR6nwUs9oMAIg-0" />
@@ -46,6 +46,12 @@
         <mxCell id="hKFb7bivR6nwUs9oMAIg-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="hKFb7bivR6nwUs9oMAIg-1" source="hKFb7bivR6nwUs9oMAIg-4" target="hKFb7bivR6nwUs9oMAIg-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="cXa9iwHkYyDvZGANJJYn-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=25;" edge="1" parent="hKFb7bivR6nwUs9oMAIg-1" source="hKFb7bivR6nwUs9oMAIg-4" target="cXa9iwHkYyDvZGANJJYn-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cXa9iwHkYyDvZGANJJYn-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=25;" edge="1" parent="hKFb7bivR6nwUs9oMAIg-1" source="hKFb7bivR6nwUs9oMAIg-4" target="cXa9iwHkYyDvZGANJJYn-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hKFb7bivR6nwUs9oMAIg-4" value="&lt;u&gt;1. Diseño CAD&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="hKFb7bivR6nwUs9oMAIg-1" vertex="1">
           <mxGeometry x="-793" y="-449" width="120" height="60" as="geometry" />
         </mxCell>
@@ -59,10 +65,10 @@
           <mxGeometry x="-674" y="-89" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hKFb7bivR6nwUs9oMAIg-9" value="1.4 Eleccion del material." style="rounded=1;whiteSpace=wrap;html=1;" parent="hKFb7bivR6nwUs9oMAIg-1" vertex="1">
-          <mxGeometry x="-674" y="7" width="120" height="60" as="geometry" />
+          <mxGeometry x="-679" y="167" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hKFb7bivR6nwUs9oMAIg-10" value="1.5 Simulaciones (CAE)" style="rounded=1;whiteSpace=wrap;html=1;" parent="hKFb7bivR6nwUs9oMAIg-1" vertex="1">
-          <mxGeometry x="-668" y="103" width="120" height="60" as="geometry" />
+          <mxGeometry x="-678" y="256" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hKFb7bivR6nwUs9oMAIg-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="hKFb7bivR6nwUs9oMAIg-1" source="hKFb7bivR6nwUs9oMAIg-11" target="hKFb7bivR6nwUs9oMAIg-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -76,10 +82,19 @@
         <mxCell id="hKFb7bivR6nwUs9oMAIg-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="hKFb7bivR6nwUs9oMAIg-1" source="hKFb7bivR6nwUs9oMAIg-11" target="hKFb7bivR6nwUs9oMAIg-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hKFb7bivR6nwUs9oMAIg-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="hKFb7bivR6nwUs9oMAIg-1" source="hKFb7bivR6nwUs9oMAIg-11" target="hKFb7bivR6nwUs9oMAIg-48" edge="1">
+        <mxCell id="hKFb7bivR6nwUs9oMAIg-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="hKFb7bivR6nwUs9oMAIg-1" source="hKFb7bivR6nwUs9oMAIg-11" target="hKFb7bivR6nwUs9oMAIg-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hKFb7bivR6nwUs9oMAIg-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="hKFb7bivR6nwUs9oMAIg-1" source="hKFb7bivR6nwUs9oMAIg-11" target="hKFb7bivR6nwUs9oMAIg-47" edge="1">
+        <mxCell id="cXa9iwHkYyDvZGANJJYn-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=25;" edge="1" parent="hKFb7bivR6nwUs9oMAIg-1" source="hKFb7bivR6nwUs9oMAIg-11" target="cXa9iwHkYyDvZGANJJYn-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cXa9iwHkYyDvZGANJJYn-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=25;" edge="1" parent="hKFb7bivR6nwUs9oMAIg-1" source="hKFb7bivR6nwUs9oMAIg-11" target="cXa9iwHkYyDvZGANJJYn-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cXa9iwHkYyDvZGANJJYn-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=25;" edge="1" parent="hKFb7bivR6nwUs9oMAIg-1" source="hKFb7bivR6nwUs9oMAIg-11" target="cXa9iwHkYyDvZGANJJYn-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cXa9iwHkYyDvZGANJJYn-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=25;" edge="1" parent="hKFb7bivR6nwUs9oMAIg-1" source="hKFb7bivR6nwUs9oMAIg-11" target="cXa9iwHkYyDvZGANJJYn-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hKFb7bivR6nwUs9oMAIg-11" value="&lt;u&gt;3. Software&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="hKFb7bivR6nwUs9oMAIg-1" vertex="1">
@@ -172,26 +187,35 @@
         <mxCell id="hKFb7bivR6nwUs9oMAIg-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="hKFb7bivR6nwUs9oMAIg-1" source="hKFb7bivR6nwUs9oMAIg-30" target="hKFb7bivR6nwUs9oMAIg-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="cXa9iwHkYyDvZGANJJYn-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=25;" edge="1" parent="hKFb7bivR6nwUs9oMAIg-1" source="hKFb7bivR6nwUs9oMAIg-30" target="cXa9iwHkYyDvZGANJJYn-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cXa9iwHkYyDvZGANJJYn-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=25;" edge="1" parent="hKFb7bivR6nwUs9oMAIg-1" source="hKFb7bivR6nwUs9oMAIg-30" target="cXa9iwHkYyDvZGANJJYn-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cXa9iwHkYyDvZGANJJYn-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=25;" edge="1" parent="hKFb7bivR6nwUs9oMAIg-1" source="hKFb7bivR6nwUs9oMAIg-30" target="cXa9iwHkYyDvZGANJJYn-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hKFb7bivR6nwUs9oMAIg-30" value="&lt;u&gt;2. Diseño electroncio&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="hKFb7bivR6nwUs9oMAIg-1" vertex="1">
           <mxGeometry x="-491" y="-449" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hKFb7bivR6nwUs9oMAIg-31" value="2.1 Planteamiento de requerimientos." style="rounded=1;whiteSpace=wrap;html=1;" parent="hKFb7bivR6nwUs9oMAIg-1" vertex="1">
+        <mxCell id="hKFb7bivR6nwUs9oMAIg-31" value="2.1 Eleccion de los componentes" style="rounded=1;whiteSpace=wrap;html=1;" parent="hKFb7bivR6nwUs9oMAIg-1" vertex="1">
           <mxGeometry x="-358" y="-305" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hKFb7bivR6nwUs9oMAIg-32" value="2.2 Analisis de ingenieria de sistemas." style="rounded=1;whiteSpace=wrap;html=1;" parent="hKFb7bivR6nwUs9oMAIg-1" vertex="1">
-          <mxGeometry x="-358" y="-194" width="120" height="60" as="geometry" />
+        <mxCell id="hKFb7bivR6nwUs9oMAIg-32" value="2.2 Desarrollo del esquematico" style="rounded=1;whiteSpace=wrap;html=1;" parent="hKFb7bivR6nwUs9oMAIg-1" vertex="1">
+          <mxGeometry x="-358" y="-212" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hKFb7bivR6nwUs9oMAIg-33" value="2.3 Desarrollo de interfaz de usuario" style="rounded=1;whiteSpace=wrap;html=1;" parent="hKFb7bivR6nwUs9oMAIg-1" vertex="1">
-          <mxGeometry x="-354" y="-98" width="120" height="60" as="geometry" />
+        <mxCell id="hKFb7bivR6nwUs9oMAIg-33" value="2.3 Desarrollo del Layout" style="rounded=1;whiteSpace=wrap;html=1;" parent="hKFb7bivR6nwUs9oMAIg-1" vertex="1">
+          <mxGeometry x="-358" y="-125" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hKFb7bivR6nwUs9oMAIg-34" value="2.4 Desarrollo de controles" style="rounded=1;whiteSpace=wrap;html=1;" parent="hKFb7bivR6nwUs9oMAIg-1" vertex="1">
-          <mxGeometry x="-354" y="-2" width="120" height="60" as="geometry" />
+        <mxCell id="hKFb7bivR6nwUs9oMAIg-34" value="2.5 Ruteo de componentes." style="rounded=1;whiteSpace=wrap;html=1;" parent="hKFb7bivR6nwUs9oMAIg-1" vertex="1">
+          <mxGeometry x="-358" y="61" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hKFb7bivR6nwUs9oMAIg-35" value="2.6 Analisis de seguridad y riesgos" style="rounded=1;whiteSpace=wrap;html=1;" parent="hKFb7bivR6nwUs9oMAIg-1" vertex="1">
-          <mxGeometry x="-353" y="174" width="120" height="60" as="geometry" />
+          <mxGeometry x="-358" y="147" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hKFb7bivR6nwUs9oMAIg-36" value="2.5 Implementacion de inteligencia" style="rounded=1;whiteSpace=wrap;html=1;" parent="hKFb7bivR6nwUs9oMAIg-1" vertex="1">
-          <mxGeometry x="-354" y="85" width="120" height="60" as="geometry" />
+        <mxCell id="hKFb7bivR6nwUs9oMAIg-36" value="2.4 Simulaciones." style="rounded=1;whiteSpace=wrap;html=1;" parent="hKFb7bivR6nwUs9oMAIg-1" vertex="1">
+          <mxGeometry x="-358" y="-32" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hKFb7bivR6nwUs9oMAIg-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="hKFb7bivR6nwUs9oMAIg-1" source="hKFb7bivR6nwUs9oMAIg-38" target="hKFb7bivR6nwUs9oMAIg-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -205,29 +229,26 @@
         <mxCell id="hKFb7bivR6nwUs9oMAIg-38" value="&lt;u&gt;6. Control de calidad&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="hKFb7bivR6nwUs9oMAIg-1" vertex="1">
           <mxGeometry x="718" y="-449" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hKFb7bivR6nwUs9oMAIg-39" value="6.1 Verificacion de parametros de seguridad" style="rounded=1;whiteSpace=wrap;html=1;" parent="hKFb7bivR6nwUs9oMAIg-1" vertex="1">
+        <mxCell id="hKFb7bivR6nwUs9oMAIg-39" value="6.1 Verificacion de conexiones." style="rounded=1;whiteSpace=wrap;html=1;" parent="hKFb7bivR6nwUs9oMAIg-1" vertex="1">
           <mxGeometry x="810" y="-356" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hKFb7bivR6nwUs9oMAIg-40" value="6.2 Verificacion de parametros de resistencia contra polvo y salpicadura" style="rounded=1;whiteSpace=wrap;html=1;" parent="hKFb7bivR6nwUs9oMAIg-1" vertex="1">
           <mxGeometry x="810" y="-254" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hKFb7bivR6nwUs9oMAIg-41" value="6.3 Verificacion de conexiones." style="rounded=1;whiteSpace=wrap;html=1;" parent="hKFb7bivR6nwUs9oMAIg-1" vertex="1">
+        <mxCell id="hKFb7bivR6nwUs9oMAIg-41" value="6.3 Verificacion de parametros de seguridad" style="rounded=1;whiteSpace=wrap;html=1;" parent="hKFb7bivR6nwUs9oMAIg-1" vertex="1">
           <mxGeometry x="810" y="-164" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hKFb7bivR6nwUs9oMAIg-44" value="3.2 Analisis de ingenieria de sistemas." style="rounded=1;whiteSpace=wrap;html=1;" parent="hKFb7bivR6nwUs9oMAIg-1" vertex="1">
-          <mxGeometry x="-69" y="-254" width="120" height="60" as="geometry" />
+        <mxCell id="hKFb7bivR6nwUs9oMAIg-44" value="3.2 Planteamiento de las I/O del sistema." style="rounded=1;whiteSpace=wrap;html=1;" parent="hKFb7bivR6nwUs9oMAIg-1" vertex="1">
+          <mxGeometry x="-69" y="-252" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hKFb7bivR6nwUs9oMAIg-45" value="3.3 Desarrollo de interfaz de usuario" style="rounded=1;whiteSpace=wrap;html=1;" parent="hKFb7bivR6nwUs9oMAIg-1" vertex="1">
-          <mxGeometry x="-69" y="-158" width="120" height="60" as="geometry" />
+        <mxCell id="hKFb7bivR6nwUs9oMAIg-45" value="3.7 Desarrollo de interfaz de usuario" style="rounded=1;whiteSpace=wrap;html=1;" parent="hKFb7bivR6nwUs9oMAIg-1" vertex="1">
+          <mxGeometry x="-69" y="165" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hKFb7bivR6nwUs9oMAIg-46" value="3.4 Desarrollo de controles" style="rounded=1;whiteSpace=wrap;html=1;" parent="hKFb7bivR6nwUs9oMAIg-1" vertex="1">
-          <mxGeometry x="-69" y="-62" width="120" height="60" as="geometry" />
+        <mxCell id="hKFb7bivR6nwUs9oMAIg-46" value="3.9 Prueba de la interfaz y programacion final" style="rounded=1;whiteSpace=wrap;html=1;" parent="hKFb7bivR6nwUs9oMAIg-1" vertex="1">
+          <mxGeometry x="-69" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hKFb7bivR6nwUs9oMAIg-47" value="3.6 Analisis de seguridad y riesgos" style="rounded=1;whiteSpace=wrap;html=1;" parent="hKFb7bivR6nwUs9oMAIg-1" vertex="1">
-          <mxGeometry x="-69" y="114" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="hKFb7bivR6nwUs9oMAIg-48" value="3.5 Implementacion de inteligencia" style="rounded=1;whiteSpace=wrap;html=1;" parent="hKFb7bivR6nwUs9oMAIg-1" vertex="1">
-          <mxGeometry x="-69" y="25" width="120" height="60" as="geometry" />
+        <mxCell id="hKFb7bivR6nwUs9oMAIg-47" value="3.8 Analisis de seguridad y riesgos" style="rounded=1;whiteSpace=wrap;html=1;" parent="hKFb7bivR6nwUs9oMAIg-1" vertex="1">
+          <mxGeometry x="-69" y="241" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hKFb7bivR6nwUs9oMAIg-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="hKFb7bivR6nwUs9oMAIg-1" source="hKFb7bivR6nwUs9oMAIg-49" target="hKFb7bivR6nwUs9oMAIg-81" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -243,6 +264,33 @@
         </mxCell>
         <mxCell id="hKFb7bivR6nwUs9oMAIg-82" value="7.2 Distribucion" style="rounded=1;whiteSpace=wrap;html=1;" parent="hKFb7bivR6nwUs9oMAIg-1" vertex="1">
           <mxGeometry x="1108" y="-272" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cXa9iwHkYyDvZGANJJYn-0" value="1.4 Revision del diseño CAD por el equipo de ingenieria.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hKFb7bivR6nwUs9oMAIg-1">
+          <mxGeometry x="-673" y="-2" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cXa9iwHkYyDvZGANJJYn-1" value="1.5 Revision del diseño CAD por el equipo de manufactura.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hKFb7bivR6nwUs9oMAIg-1">
+          <mxGeometry x="-676" y="77" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cXa9iwHkYyDvZGANJJYn-4" value="3.3 Programacion." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hKFb7bivR6nwUs9oMAIg-1">
+          <mxGeometry x="-69" y="-168" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cXa9iwHkYyDvZGANJJYn-5" value="3.4 Implementacion de inteligencia artificial" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hKFb7bivR6nwUs9oMAIg-1">
+          <mxGeometry x="-69" y="-85" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cXa9iwHkYyDvZGANJJYn-8" value="3.5 Desarrollo de controles" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hKFb7bivR6nwUs9oMAIg-1">
+          <mxGeometry x="-69" y="-2" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cXa9iwHkYyDvZGANJJYn-9" value="3.6 Prueba de la programacion." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hKFb7bivR6nwUs9oMAIg-1">
+          <mxGeometry x="-69" y="81" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cXa9iwHkYyDvZGANJJYn-12" value="2.7 Revision del diseño ECAD por el equipo de ingenieria.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hKFb7bivR6nwUs9oMAIg-1">
+          <mxGeometry x="-358" y="248" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cXa9iwHkYyDvZGANJJYn-13" value="2.8 Revision del diseño ECAD por el equipo de manufactura.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hKFb7bivR6nwUs9oMAIg-1">
+          <mxGeometry x="-358" y="327" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cXa9iwHkYyDvZGANJJYn-16" value="2.9 Pruebas electronicas." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hKFb7bivR6nwUs9oMAIg-1">
+          <mxGeometry x="-362" y="415" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
