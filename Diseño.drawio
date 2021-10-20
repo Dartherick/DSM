@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-20T14:27:49.184Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="ignq1IFMQnlFp7xOthYG" version="15.3.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-10-20T14:54:24.577Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="4G8PQ1VYEvcNtOTr-vdz" version="15.3.8" type="github" pages="4">
   <diagram id="0cCymv_eFSbqMlrv2P3G" name="Esquema de producto">
-    <mxGraphModel dx="2653" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1865" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5696,7 +5696,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="E8A6YasDpyY4jCSgoTIH" name="Análisis de Interacciones">
-    <mxGraphModel dx="2130" dy="868" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1438" dy="579" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="u3m8OHi7mAYgLWEsVLAU-0" />
         <mxCell id="u3m8OHi7mAYgLWEsVLAU-1" parent="u3m8OHi7mAYgLWEsVLAU-0" />
@@ -6347,7 +6347,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jqTqFbydZOTkmEdzokBZ" name="Flujo de proceso">
-    <mxGraphModel dx="1483" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="_L5VKUi7owUdNwf-Yq2Y-0" />
         <mxCell id="_L5VKUi7owUdNwf-Yq2Y-1" parent="_L5VKUi7owUdNwf-Yq2Y-0" />
@@ -6355,7 +6355,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nxpDE_9zWIZ-M8qxvsXO" name="P&amp;ID">
-    <mxGraphModel dx="2595" dy="1703" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2076" dy="1558" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="kIYPvlQg6X9QhfAyybba-0" />
         <mxCell id="kIYPvlQg6X9QhfAyybba-1" parent="kIYPvlQg6X9QhfAyybba-0" />
@@ -6625,14 +6625,6 @@
         <mxCell id="kIYPvlQg6X9QhfAyybba-143" value="5V" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;" parent="kIYPvlQg6X9QhfAyybba-1" vertex="1">
           <mxGeometry x="850" y="380" width="60" height="30" as="geometry" />
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="HloR8D8-FnarYfhAqfTk" name="WBS">
-    <mxGraphModel dx="1038" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      <root>
-        <mxCell id="hKFb7bivR6nwUs9oMAIg-0" />
-        <mxCell id="hKFb7bivR6nwUs9oMAIg-1" parent="hKFb7bivR6nwUs9oMAIg-0" />
       </root>
     </mxGraphModel>
   </diagram>
