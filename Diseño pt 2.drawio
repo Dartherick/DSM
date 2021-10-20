@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-20T15:42:38.055Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="NfrWuCJTd79-Ki5DC5tu" version="15.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-20T15:46:06.597Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="GU9RM3Mn67nhLYFlg6jF" version="15.5.6" type="github">
   <diagram id="HloR8D8-FnarYfhAqfTk" name="WBS">
-    <mxGraphModel dx="5273" dy="1734" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5631" dy="1934" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="hKFb7bivR6nwUs9oMAIg-0" />
         <mxCell id="hKFb7bivR6nwUs9oMAIg-1" parent="hKFb7bivR6nwUs9oMAIg-0" />
@@ -160,6 +160,9 @@
         <mxCell id="cXa9iwHkYyDvZGANJJYn-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=25;" edge="1" parent="hKFb7bivR6nwUs9oMAIg-1" source="hKFb7bivR6nwUs9oMAIg-23" target="cXa9iwHkYyDvZGANJJYn-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="cXa9iwHkYyDvZGANJJYn-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=25;" edge="1" parent="hKFb7bivR6nwUs9oMAIg-1" source="hKFb7bivR6nwUs9oMAIg-23" target="cXa9iwHkYyDvZGANJJYn-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hKFb7bivR6nwUs9oMAIg-23" value="&lt;u&gt;5. Fase de pruebas&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="hKFb7bivR6nwUs9oMAIg-1" vertex="1">
           <mxGeometry x="416" y="-449" width="120" height="60" as="geometry" />
         </mxCell>
@@ -170,10 +173,10 @@
           <mxGeometry x="536" y="-243" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hKFb7bivR6nwUs9oMAIg-26" value="5.3 Prueba de eliminacion de maleza" style="rounded=1;whiteSpace=wrap;html=1;" parent="hKFb7bivR6nwUs9oMAIg-1" vertex="1">
-          <mxGeometry x="500" y="-7" width="120" height="60" as="geometry" />
+          <mxGeometry x="519" y="-40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hKFb7bivR6nwUs9oMAIg-27" value="5.5 Prueba de funcionamiento general." style="rounded=1;whiteSpace=wrap;html=1;" parent="hKFb7bivR6nwUs9oMAIg-1" vertex="1">
-          <mxGeometry x="506" y="147" width="120" height="60" as="geometry" />
+        <mxCell id="hKFb7bivR6nwUs9oMAIg-27" value="5.6 Prueba de funcionamiento general." style="rounded=1;whiteSpace=wrap;html=1;" parent="hKFb7bivR6nwUs9oMAIg-1" vertex="1">
+          <mxGeometry x="523" y="233" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hKFb7bivR6nwUs9oMAIg-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="hKFb7bivR6nwUs9oMAIg-1" source="hKFb7bivR6nwUs9oMAIg-30" target="hKFb7bivR6nwUs9oMAIg-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -235,23 +238,23 @@
         <mxCell id="hKFb7bivR6nwUs9oMAIg-39" value="6.1 Verificacion de conexiones." style="rounded=1;whiteSpace=wrap;html=1;" parent="hKFb7bivR6nwUs9oMAIg-1" vertex="1">
           <mxGeometry x="810" y="-356" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hKFb7bivR6nwUs9oMAIg-40" value="6.2 Verificacion de parametros de resistencia contra polvo y salpicadura" style="rounded=1;whiteSpace=wrap;html=1;" parent="hKFb7bivR6nwUs9oMAIg-1" vertex="1">
-          <mxGeometry x="810" y="-254" width="120" height="60" as="geometry" />
+        <mxCell id="hKFb7bivR6nwUs9oMAIg-40" value="6.3 Verificacion de parametros de resistencia contra polvo y salpicadura" style="rounded=1;whiteSpace=wrap;html=1;" parent="hKFb7bivR6nwUs9oMAIg-1" vertex="1">
+          <mxGeometry x="808" y="-183" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hKFb7bivR6nwUs9oMAIg-41" value="6.3 Verificacion de parametros de seguridad" style="rounded=1;whiteSpace=wrap;html=1;" parent="hKFb7bivR6nwUs9oMAIg-1" vertex="1">
-          <mxGeometry x="810" y="-164" width="120" height="60" as="geometry" />
+        <mxCell id="hKFb7bivR6nwUs9oMAIg-41" value="6.2 Verificacion de parametros de seguridad" style="rounded=1;whiteSpace=wrap;html=1;" parent="hKFb7bivR6nwUs9oMAIg-1" vertex="1">
+          <mxGeometry x="808" y="-272" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hKFb7bivR6nwUs9oMAIg-44" value="3.2 Planteamiento de las I/O del sistema." style="rounded=1;whiteSpace=wrap;html=1;" parent="hKFb7bivR6nwUs9oMAIg-1" vertex="1">
-          <mxGeometry x="-69" y="-252" width="120" height="60" as="geometry" />
+          <mxGeometry x="-69" y="-253" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hKFb7bivR6nwUs9oMAIg-45" value="3.7 Desarrollo de interfaz de usuario" style="rounded=1;whiteSpace=wrap;html=1;" parent="hKFb7bivR6nwUs9oMAIg-1" vertex="1">
-          <mxGeometry x="-69" y="165" width="120" height="60" as="geometry" />
+          <mxGeometry x="-69" y="156" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hKFb7bivR6nwUs9oMAIg-46" value="3.9 Prueba de la interfaz y programacion final" style="rounded=1;whiteSpace=wrap;html=1;" parent="hKFb7bivR6nwUs9oMAIg-1" vertex="1">
           <mxGeometry x="-69" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hKFb7bivR6nwUs9oMAIg-47" value="3.8 Analisis de seguridad y riesgos" style="rounded=1;whiteSpace=wrap;html=1;" parent="hKFb7bivR6nwUs9oMAIg-1" vertex="1">
-          <mxGeometry x="-69" y="241" width="120" height="60" as="geometry" />
+          <mxGeometry x="-69" y="238" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hKFb7bivR6nwUs9oMAIg-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="hKFb7bivR6nwUs9oMAIg-1" source="hKFb7bivR6nwUs9oMAIg-49" target="hKFb7bivR6nwUs9oMAIg-81" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -275,16 +278,16 @@
           <mxGeometry x="-676" y="77" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cXa9iwHkYyDvZGANJJYn-4" value="3.3 Programacion." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hKFb7bivR6nwUs9oMAIg-1">
-          <mxGeometry x="-69" y="-168" width="120" height="60" as="geometry" />
+          <mxGeometry x="-69" y="-171" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cXa9iwHkYyDvZGANJJYn-5" value="3.4 Implementacion de inteligencia artificial" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hKFb7bivR6nwUs9oMAIg-1">
-          <mxGeometry x="-69" y="-85" width="120" height="60" as="geometry" />
+          <mxGeometry x="-69" y="-89" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cXa9iwHkYyDvZGANJJYn-8" value="3.5 Desarrollo de controles" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hKFb7bivR6nwUs9oMAIg-1">
-          <mxGeometry x="-69" y="-2" width="120" height="60" as="geometry" />
+          <mxGeometry x="-69" y="-7" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cXa9iwHkYyDvZGANJJYn-9" value="3.6 Prueba de la programacion." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hKFb7bivR6nwUs9oMAIg-1">
-          <mxGeometry x="-69" y="81" width="120" height="60" as="geometry" />
+          <mxGeometry x="-69" y="74" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cXa9iwHkYyDvZGANJJYn-12" value="2.7 Revision del diseño ECAD por el equipo de ingenieria.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hKFb7bivR6nwUs9oMAIg-1">
           <mxGeometry x="-358" y="248" width="120" height="60" as="geometry" />
@@ -302,7 +305,10 @@
           <mxGeometry x="519" y="-136" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cXa9iwHkYyDvZGANJJYn-26" value="5.4 Prueba de interfaz de usuario." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hKFb7bivR6nwUs9oMAIg-1">
-          <mxGeometry x="506" y="66" width="120" height="60" as="geometry" />
+          <mxGeometry x="517" y="45" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cXa9iwHkYyDvZGANJJYn-28" value="5.5 Prueba de resistencia contra polvo y salpicadura." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="hKFb7bivR6nwUs9oMAIg-1">
+          <mxGeometry x="523" y="141" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
