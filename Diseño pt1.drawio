@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-20T20:27:11.520Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="ZzZtP9q-K1J0M-KQEZg3" version="15.5.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-10-20T20:28:03.884Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="C7Xpj7kGFlRobKGBdxMM" version="15.5.6" type="github" pages="4">
   <diagram id="0cCymv_eFSbqMlrv2P3G" name="Esquema de producto">
     <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6428,6 +6428,11 @@
             <mxGeometry x="1321" y="851" width="144" height="85" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="X7kmXZfHDS-y2Ireny5F-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="kIYPvlQg6X9QhfAyybba-1" source="kIYPvlQg6X9QhfAyybba-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="886.666666666667" y="973" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <UserObject label="" lucidchartObjectId="L1wjmmNTRRi5" id="kIYPvlQg6X9QhfAyybba-9">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;whiteSpace=wrap;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://images.lucid.app/images/21862a1f-254c-4df4-9148-ca2bae3fad8e/content;imageAspect=0;" parent="kIYPvlQg6X9QhfAyybba-1" vertex="1">
             <mxGeometry x="747.5" y="918" width="117" height="110" as="geometry" />
@@ -6435,7 +6440,7 @@
         </UserObject>
         <UserObject label="" lucidchartObjectId="W1wjA.RKdAPO" id="kIYPvlQg6X9QhfAyybba-10">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;whiteSpace=wrap;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://images.lucid.app/images/410d4b1e-cd20-408e-a848-eedd01c48dae/content;imageAspect=0;" parent="kIYPvlQg6X9QhfAyybba-1" vertex="1">
-            <mxGeometry x="1430" y="360" width="140" height="98" as="geometry" />
+            <mxGeometry x="1428" y="366" width="140" height="98" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" lucidchartObjectId="81wjKmDNopDY" id="kIYPvlQg6X9QhfAyybba-11">
@@ -6509,7 +6514,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kIYPvlQg6X9QhfAyybba-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;dashed=1;strokeWidth=2;" parent="kIYPvlQg6X9QhfAyybba-1" source="kIYPvlQg6X9QhfAyybba-20" target="kIYPvlQg6X9QhfAyybba-22" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="708" y="747" />
+              <mxPoint x="408" y="747" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="kIYPvlQg6X9QhfAyybba-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontSize=11;startArrow=none;dashed=1;strokeWidth=2;" parent="kIYPvlQg6X9QhfAyybba-1" source="kIYPvlQg6X9QhfAyybba-20" target="kIYPvlQg6X9QhfAyybba-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -6537,7 +6547,7 @@
         </UserObject>
         <UserObject label="" lucidchartObjectId="Q3wjSzWMPRqZ" id="kIYPvlQg6X9QhfAyybba-22">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=image;whiteSpace=wrap;fontSize=13;spacing=0;strokeColor=none;strokeOpacity=100;strokeWidth=0;image=https://images.lucid.app/images/67656a7a-69c9-4115-a5a7-e323b0b0da51/content;imageAspect=0;" parent="kIYPvlQg6X9QhfAyybba-1" vertex="1">
-            <mxGeometry x="320" y="760" width="180" height="104" as="geometry" />
+            <mxGeometry x="318" y="832" width="180" height="104" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="kIYPvlQg6X9QhfAyybba-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=11;startArrow=none;dashed=1;strokeWidth=2;" parent="kIYPvlQg6X9QhfAyybba-1" source="kIYPvlQg6X9QhfAyybba-23" target="kIYPvlQg6X9QhfAyybba-21" edge="1">
@@ -6605,7 +6615,7 @@
           <mxGeometry x="47" y="23" width="120" height="57" as="geometry" />
         </mxCell>
         <mxCell id="kIYPvlQg6X9QhfAyybba-137" value="24V AC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;" parent="kIYPvlQg6X9QhfAyybba-1" vertex="1">
-          <mxGeometry x="323" y="29" width="160" height="48" as="geometry" />
+          <mxGeometry x="294" y="36" width="160" height="48" as="geometry" />
         </mxCell>
         <mxCell id="kIYPvlQg6X9QhfAyybba-138" value="5V" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;" parent="kIYPvlQg6X9QhfAyybba-1" vertex="1">
           <mxGeometry x="772" y="152" width="60" height="30" as="geometry" />
