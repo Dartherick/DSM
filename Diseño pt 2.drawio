@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-20T20:50:46.334Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="5Eiuc9i3aw4KN7lh3t9C" version="15.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-22T23:04:06.098Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="zsW5_TCo0GDDo0asMBiT" version="15.5.7" type="github">
   <diagram id="HloR8D8-FnarYfhAqfTk" name="WBS">
-    <mxGraphModel dx="2021" dy="1481" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1668" dy="1254" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="hKFb7bivR6nwUs9oMAIg-0" />
         <mxCell id="hKFb7bivR6nwUs9oMAIg-1" parent="hKFb7bivR6nwUs9oMAIg-0" />
@@ -199,7 +199,7 @@
         <mxCell id="cXa9iwHkYyDvZGANJJYn-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=25;" parent="hKFb7bivR6nwUs9oMAIg-1" source="hKFb7bivR6nwUs9oMAIg-30" target="cXa9iwHkYyDvZGANJJYn-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hKFb7bivR6nwUs9oMAIg-30" value="&lt;u style=&quot;font-size: 15px;&quot;&gt;2. Diseño electroncio&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;movable=0;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="hKFb7bivR6nwUs9oMAIg-1" vertex="1">
+        <mxCell id="hKFb7bivR6nwUs9oMAIg-30" value="&lt;u style=&quot;font-size: 15px&quot;&gt;2. Diseño electronico&lt;/u&gt;" style="rounded=1;whiteSpace=wrap;html=1;movable=0;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="hKFb7bivR6nwUs9oMAIg-1" vertex="1">
           <mxGeometry x="-491" y="-449" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hKFb7bivR6nwUs9oMAIg-31" value="2.1 Eleccion de los componentes" style="rounded=1;whiteSpace=wrap;html=1;movable=0;fontSize=13;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="hKFb7bivR6nwUs9oMAIg-1" vertex="1">
