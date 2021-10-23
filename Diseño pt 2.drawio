@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-23T02:05:48.215Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="U6N2tkT2x4k9Y0ckKWJa" version="15.5.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-23T02:06:28.824Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="FKakt1-KP65wuVu5U0S3" version="15.5.7" type="github" pages="2">
   <diagram id="HloR8D8-FnarYfhAqfTk" name="WBS">
     <mxGraphModel dx="1668" dy="1254" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -311,7 +311,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="d0qMbTWMS64XjjL5R1oy" name="Diagrama de flujo">
-    <mxGraphModel dx="2672" dy="1960" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1370" dy="1375" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="C_QugvXMSl1qowbGgs-Q-0" />
         <mxCell id="C_QugvXMSl1qowbGgs-Q-1" parent="C_QugvXMSl1qowbGgs-Q-0" />
@@ -433,7 +433,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="C_QugvXMSl1qowbGgs-Q-42" value="Iniciar recorrido" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="C_QugvXMSl1qowbGgs-Q-1">
-          <mxGeometry x="1405.9950000000001" y="137.62500000000006" width="120" height="60" as="geometry" />
+          <mxGeometry x="1405.9950000000001" y="112.99500000000006" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C_QugvXMSl1qowbGgs-Q-113" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="C_QugvXMSl1qowbGgs-Q-1" source="C_QugvXMSl1qowbGgs-Q-44" target="C_QugvXMSl1qowbGgs-Q-64">
           <mxGeometry relative="1" as="geometry" />
