@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-23T02:54:30.417Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="nP85br7GkbgjdQWPJzGg" version="15.5.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-10-23T02:58:25.040Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="00MrfGUJlZJDUMBob6Dm" version="15.5.7" type="github" pages="4">
   <diagram id="0cCymv_eFSbqMlrv2P3G" name="Esquema de producto">
-    <mxGraphModel dx="1847" dy="1157" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1438" dy="947" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -88,7 +88,7 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <mxCell id="-RfcQnSzLyLE-Wc0Y1WP-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H_UsJQ5flKIIZtNJFzKd-5" target="H_UsJQ5flKIIZtNJFzKd-14">
+        <mxCell id="-RfcQnSzLyLE-Wc0Y1WP-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="H_UsJQ5flKIIZtNJFzKd-5" target="H_UsJQ5flKIIZtNJFzKd-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="Transformar energia " lucidchartObjectId="MB1iP3pDdO8o" id="H_UsJQ5flKIIZtNJFzKd-5">
@@ -140,7 +140,7 @@
             <mxGeometry x="413.5" y="180" width="135" height="83" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="-RfcQnSzLyLE-Wc0Y1WP-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H_UsJQ5flKIIZtNJFzKd-14" target="H_UsJQ5flKIIZtNJFzKd-12">
+        <mxCell id="-RfcQnSzLyLE-Wc0Y1WP-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="H_UsJQ5flKIIZtNJFzKd-14" target="H_UsJQ5flKIIZtNJFzKd-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="Energia de potencia" lucidchartObjectId="5K1iT34nQMZZ" id="H_UsJQ5flKIIZtNJFzKd-14">
@@ -351,6 +351,15 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
+        <mxCell id="oFWileD_wxI282kTRtxU-2" style="rounded=1;jumpStyle=arc;jumpSize=16;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;strokeWidth=2;fontSize=13;endFill=1;endArrow=block;endSize=6;arcSize=12;dashed=1;shadow=0;" edge="1" parent="1" source="H_UsJQ5flKIIZtNJFzKd-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="552" y="229" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1224" y="229" />
+              <mxPoint x="552" y="229" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <UserObject label="Generar interrupciones " lucidchartObjectId="gt2iTZzYyyTV" id="H_UsJQ5flKIIZtNJFzKd-51">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=16.7;fontColor=#333333;align=center;spacing=9;strokeColor=#5e5e5e;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffdf71;strokeWidth=2.3;" parent="1" vertex="1">
             <mxGeometry x="1133.5" y="443" width="120" height="90" as="geometry" />
@@ -442,7 +451,7 @@
           </mxCell>
         </UserObject>
         <UserObject label="" lucidchartObjectId="G.2iB7Gvxw.j" id="H_UsJQ5flKIIZtNJFzKd-82">
-          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#000000;dashed=1;fixDash=1;dashPattern=16 6;strokeWidth=1.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;;endArrow=block;endFill=1;;exitX=1.009;exitY=0.5;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1" target="H_UsJQ5flKIIZtNJFzKd-83">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#000000;dashed=1;fixDash=1;dashPattern=16 6;strokeWidth=1.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;;endArrow=block;endFill=1;;exitX=1.009;exitY=0.5;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="H_UsJQ5flKIIZtNJFzKd-83" edge="1">
             <mxGeometry width="100" height="100" relative="1" as="geometry">
               <Array as="points">
                 <mxPoint x="636" y="217" />
@@ -478,13 +487,14 @@
           </mxCell>
         </UserObject>
         <UserObject label="" lucidchartObjectId="kf2i1Pji_3~7" id="H_UsJQ5flKIIZtNJFzKd-87">
-          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#000000;dashed=1;fixDash=1;strokeWidth=2;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;;endArrow=block;endFill=1;;endSize=6;jumpSize=5;" parent="1" edge="1">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#000000;dashed=1;fixDash=1;strokeWidth=2;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;;endArrow=block;endFill=1;;endSize=6;jumpSize=16;jumpStyle=arc;" parent="1" edge="1">
             <mxGeometry width="100" height="100" relative="1" as="geometry">
               <Array as="points">
-                <mxPoint x="1184.5" y="52.5" />
+                <mxPoint x="1185" y="9" />
+                <mxPoint x="540" y="9" />
               </Array>
               <mxPoint x="1184.5" y="442.5" as="sourcePoint" />
-              <mxPoint x="1024.5" y="52.5" as="targetPoint" />
+              <mxPoint x="540" y="42" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </UserObject>
