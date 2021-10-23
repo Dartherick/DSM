@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-22T23:04:06.098Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="zsW5_TCo0GDDo0asMBiT" version="15.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-23T01:07:04.365Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="z5r-Wi67yzbCt31nZFuG" version="15.5.7" type="github" pages="2">
   <diagram id="HloR8D8-FnarYfhAqfTk" name="WBS">
     <mxGraphModel dx="1668" dy="1254" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -307,6 +307,14 @@
         <mxCell id="cXa9iwHkYyDvZGANJJYn-28" value="5.6 Prueba de resistencia contra polvo y salpicadura." style="rounded=1;whiteSpace=wrap;html=1;movable=0;fontSize=13;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="hKFb7bivR6nwUs9oMAIg-1" vertex="1">
           <mxGeometry x="523" y="92" width="120" height="60" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="d0qMbTWMS64XjjL5R1oy" name="Diagrama de flujo">
+    <mxGraphModel dx="868" dy="390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="C_QugvXMSl1qowbGgs-Q-0" />
+        <mxCell id="C_QugvXMSl1qowbGgs-Q-1" parent="C_QugvXMSl1qowbGgs-Q-0" />
       </root>
     </mxGraphModel>
   </diagram>
